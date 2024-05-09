@@ -1,3 +1,5 @@
+//This is the dummy code, kept here for my personal kearniung only.
+
 function getPin() {
     const pin = Math.round(Math.random() * 10000);
     const pinString = pin + '';
